@@ -2,12 +2,21 @@ body {
     margin: auto;
 }
 
+
 /* branch1 m1 */
 h1 {
     font-size: larger;
+    width: auto;
+    height: auto;
 }
 
 /* branch1 m2 */
 h3 {
     color: aqua;
+}
+
+/* branch2 m2 */
+table {
+    background-color: blue;
+
 }
